@@ -1,2 +1,27 @@
-# my-tool-list
-My personal toolbox, updated from time to time
+# 我的工具列表
+
+记录平时发现的实用工具，不定时更新。
+
+## Inbox
+- [ ] 
+
+## AI
+- 
+
+## 开发
+- 
+
+## 效率工具
+- 
+## 设计
+- https://www.flaticon.com/
+
+
+## 浏览器插件
+- 
+
+## 网站服务
+- 
+
+## 学习资源
+- 
